@@ -1,0 +1,8 @@
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\bin\Release\Clasificador_BMS.exe
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\bin\Release\Clasificador_BMS.pdb
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\Clasificador_BMS.Clasificador.resources
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\Clasificador_BMS.Properties.Resources.resources
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\Clasificador_BMS.csproj.GenerateResource.Cache
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\Clasificador_BMS.exe
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Release\Clasificador_BMS.pdb

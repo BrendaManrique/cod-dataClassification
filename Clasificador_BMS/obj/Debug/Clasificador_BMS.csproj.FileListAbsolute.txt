@@ -1,0 +1,12 @@
+C:\Users\Bren\AppData\Local\Temporary Projects\Clasificador_BMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bren\AppData\Local\Temporary Projects\Clasificador_BMS\obj\Debug\Clasificador_BMS.Clasificador.resources
+C:\Users\Bren\AppData\Local\Temporary Projects\Clasificador_BMS\obj\Debug\Clasificador_BMS.Properties.Resources.resources
+C:\Users\Bren\AppData\Local\Temporary Projects\Clasificador_BMS\obj\Debug\Clasificador_BMS.csproj.GenerateResource.Cache
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\Clasificador_BMS.Clasificador.resources
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\Clasificador_BMS.Properties.Resources.resources
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\Clasificador_BMS.csproj.GenerateResource.Cache
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\bin\Debug\Clasificador_BMS.exe
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\bin\Debug\Clasificador_BMS.pdb
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\Clasificador_BMS.exe
+C:\Users\Bren\Desktop\IA\Clasificador_BMS\Clasificador_BMS\obj\Debug\Clasificador_BMS.pdb
